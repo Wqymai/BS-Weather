@@ -4,7 +4,7 @@
     <version value="2"/>
 
     <list>
-        <mapping class="com.example.coolweather.db.CityRecond"></mapping>
+        <mapping class="com.maimob.weather.db.CityRecond"></mapping>
     </list>
 
 </litepal>
